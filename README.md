@@ -2,7 +2,7 @@
 본 프로젝트는 7개의 ipynd 파일이 있습니다.
 최상위 폴더에는 데이터 폴더와 코드 폴더가 있습니다.
 <img width="841" alt="image" src="https://github.com/user-attachments/assets/2e641fcb-c018-4616-bbaf-9393d600dd48" />
-<br>***반드시 주의하셔야 합니다. 모든 코드에서 경로 설정에서 최상위는 /project 로 시작합니다! /project 이후에는 /project/data 폴더 /project/code 폴더가 있습니다. 만약 /project 콜더가 본인 환경에서 최상위 폴더가 아니라면 /project 앞에 자신의 경로 코드를 덧붙이거나 경로 수정을 꼭 하셔야합니다***
+<br>***반드시 주의하셔야 합니다. 모든 코드에서 경로 설정에서 최상위는 /project 로 시작합니다! /project 이후에는 /project/data 폴더 /project/code 폴더가 있습니다. 만약 /project 폴더가 본인 환경에서 최상위 폴더가 아니라면 /project 앞에 자신의 경로 코드를 덧붙이거나 경로 수정을 꼭 하셔야합니다***
 또한 설치 라이브러리 같은경우 !pip 형태를 주석처리하였으니 만약 라이브러리가 호출이 안된다면 직접 라이브러리를 설치하거나 필요한 !pip 의 주석을 해제하여 설치하시길 바랍니다.
 archive.zip 만 캐글에서 제공하는 데이터가 나머지 폴더, ipynd, .pt파일, .csv 파일은 모두 제가 구축하였습니다.
 # 실행
