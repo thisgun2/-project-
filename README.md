@@ -1,7 +1,8 @@
 # 파일 구조 설명
 본 프로젝트는 7개의 ipynd 파일이 있습니다.
 최상위 폴더에는 데이터 폴더와 코드 폴더가 있습니다.
-![alt text](image-3.png)
+<img width="823" alt="image" src="https://github.com/user-attachments/assets/ec6b28dd-602b-4323-b628-ed26999e989d" />
+
 
 archive.zip 만 캐글에서 제공하는 데이터가 나머지 폴더, ipynd, .pt파일, .csv 파일은 모두 제가 구축하였습니다.
 ## data 폴더
